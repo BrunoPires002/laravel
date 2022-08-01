@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: blue;
+}
+
+.navbar{
+    width: 100%;
+}
+
+button{
+    background-color:rgb(187, 216, 216);
+}
+
+button:hover{
+    background-color:rgb(255, 255, 255);
+}
+
+h1, h2, h3, h4{
+    color: rgb(0, 0, 0);
+    background-color: rgb(187, 216, 216);
+    width: 24.5%;
+}
